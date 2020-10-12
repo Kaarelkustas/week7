@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.exe
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.deps.json
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.runtimeconfig.json
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.dll
+C:\Users\opilane\source\repos\week7Functions\week7Functions\bin\Debug\netcoreapp3.1\week7Functions.pdb
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.AssemblyInfo.cs
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.dll
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.pdb
+C:\Users\opilane\source\repos\week7Functions\week7Functions\obj\Debug\netcoreapp3.1\week7Functions.genruntimeconfig.cache

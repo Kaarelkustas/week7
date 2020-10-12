@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\week7Functions\functionsreturn\obj\Debug\netcoreapp3.1\functionsreturn.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\week7Functions\functionsreturn\obj\Debug\netcoreapp3.1\functionsreturn.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\week7Functions\functionsreturn\obj\Debug\netcoreapp3.1\functionsreturn.AssemblyInfo.cs
+C:\Users\opilane\source\repos\week7Functions\functionsreturn\obj\Debug\netcoreapp3.1\functionsreturn.csproj.CoreCompileInputs.cache
